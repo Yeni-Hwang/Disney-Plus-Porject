@@ -31,7 +31,7 @@ The model generated five topics based on textual data : Title, Plot and Genre
 
 ![image](https://user-images.githubusercontent.com/78137937/152579001-9f7cc45a-98a0-4812-8c74-bca2a734fb45.png)
 
-The graph compares topic proportion of each films. '10 Things I Hate About You' and 'Stargirl' are conventionally classified in same genre, however, Topic modeling noticed a difference and distinguished them. Both of them are teen, romantic, comedy-drama but mysterious and fantasy stroy lines are added in 'Stargirl'. 
+The graph compares topic proportion of each films. '10 Things I Hate About You' and 'Stargirl' are conventionally classified in same genre -Comedy, Drama, Romance. However, Topic modeling noticed a difference and distinguished them. Both of them are teen-romantic, but mysterious and fantasy stroy lines and are added in 'Stargirl'. Besides, music was more emphasized as a crucial function to give a narrative to scenes frequently. Interestingly, according to wordcloud at step 1, topic 4 demonstartes these characters quite well.
 
 ### 3) Hierarchical clustering and compare dissimilarity: Disney Plus VS Hulu
 
