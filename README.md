@@ -1,4 +1,4 @@
-# Disney-Plus-Porject
+# Disney-Plus-Project
 
 Downlad link : [Paper](https://github.com/Yeni-Hwang/DisneyPlus_Project/raw/main/Paper_OTT(Over-the-top)%20Content%20Textual%20Clustering%20and%20Dissimilarity%20.pdf) (English)
 
