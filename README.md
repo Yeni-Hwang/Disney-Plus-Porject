@@ -2,7 +2,7 @@
 
 Downlad link : [Paper](https://github.com/Yeni-Hwang/DisneyPlus_Project/raw/main/Paper_OTT(Over-the-top)%20Content%20Textual%20Clustering%20and%20Dissimilarity%20.pdf) (English)
 
-## Revisiting Genre Classification Through NLP: Topic Modeling and Dissimilarity Measurement with Textual Data
+## Revisiting Genre Classification Through NLP: Topic Modeling and Diversity Measurement with Textual Data
 
 A noticeable consumer behavior in this industry is that many OTT streaming platform users multihome, which means that they are subscribing to mutiples streaming services. Multi-homing behavior is consistent in OTT service platforms such as Netflix, Disney Plus, Hulu, Amazon Prime, HBO Max, etc. Such trend shows that users are in demand of filling in the gaps between the range of contents that different platforms provide. This is an opportunity for platforms to appeal to users by promoting the variety of content they provide. However, there is no uniform measure that tracks the level of variety in the OTT service industry. 
 
